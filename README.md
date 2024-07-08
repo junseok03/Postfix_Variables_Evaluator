@@ -7,4 +7,5 @@
   - (i.e. B 4 =)
 - After defining variables, write an expression in postfix format (the input should be comma-separated)
   - (i.e. A,B,*)
-
+- The program calcultes the postfix expression and returns the value
+  - (i.e. Result: 12)
