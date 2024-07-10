@@ -1,4 +1,4 @@
-# Evaluator for expressions with variables
+# Postfix-Evaluator for expressions with variables
 
 ## How to use:
 
